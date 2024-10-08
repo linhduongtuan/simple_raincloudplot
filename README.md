@@ -3,7 +3,7 @@
 ### Introduction
 - Raincloud plots are a combination of a violin plot, a box plot, and a scatter plot
 - They provide a comprehensive view of the data distribution, showing the density, range, and individual data points
-- The original paper, titled "Raincloud plots: a multi-platform tool for robust data visualization," published in January 2019, has garnered 1,390 citations as of today (November 8, 2024)
+- The original paper, titled "Raincloud plots: a multi-platform tool for robust data visualization," published in January 2019 at [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/), has garnered 1,390 citations as of today (November 8, 2024)
 
 ### Installation
 ```bash
